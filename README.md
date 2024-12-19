@@ -1,11 +1,11 @@
 # Pomodoro-Timer-Web-Application
-Wireframe for the Web App
-1. Header
+## Wireframe for the Web App
+### 1. Header
 * Position: Top of the page (sticky).
 * Components:
    * Logo/Title: "Pomodoro Timer" on the left.
    * Theme Toggle: Dark/Light mode switch on the right.
-2. Main Timer Section
+### 2. Main Timer Section
 * Position: Centered on the screen (vertically and horizontally).
 * Components:
    * Timer Display:
@@ -16,7 +16,7 @@ Wireframe for the Web App
       * Start/Pause Button.
       * Reset Button.
    * Timer Labels: Work and Break durations displayed as small text.
-3. Customization Panel (Settings Section)
+### 3. Customization Panel (Settings Section)
 * Position: Below the Timer Section.
 * Components:
    * Input Fields:
@@ -24,7 +24,7 @@ Wireframe for the Web App
       * "Break Duration": Number input for setting break time.
    * Save Button: To apply changes.
    * Default Button: To reset to default settings.
-4. Statistics Section
+### 4. Statistics Section
 * Position: Below the Customization Panel (or accessible via a tab).
 * Components:
    * Daily Summary:
@@ -32,7 +32,7 @@ Wireframe for the Web App
    * Cumulative Stats:
       * Total sessions completed.
       * Total time spent working (in hours).
-5. Footer
+### 5. Footer
 * Position: Bottom of the page.
 * Components:
    * Links:
