@@ -1,4 +1,16 @@
 # Pomodoro-Timer-Web-Application
+src/
+ ├── components/
+* │   ├── Header.js
+* │   ├── TimerDisplay.js
+* │   ├── Controls.js
+* │   ├── SettingsPanel.js
+* │   ├── Statistics.js
+* │   └── Footer.js
+* ├── App.js
+* ├── index.css
+* └── index.js
+
 ## Wireframe for the Web App
 ### 1. Header
 * Position: Top of the page (sticky).
